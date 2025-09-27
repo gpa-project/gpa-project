@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, we're gpa-project 👋</h1>
+<h1 align="center">Welcome to gpa-project 👾</h1>
 
 <p align="center">
-  <img src="https://github.com/gpa-project.png" width="120" alt="gpa-project avatar" style="border-radius:50%;">
+  <img src="https://github.com/gpa-project.png" width="120" alt="gpa-project logo" style="border-radius:50%;">
 </p>
 
 <p align="center">
@@ -15,19 +15,19 @@
 
 ---
 
-## 👨‍💻 Tentang Kami
+## 🕶️ Who Are We?
 
-Halo! Kami adalah **gpa-project**, sekelompok developer yang antusias membangun solusi digital berdampak dan terus mengeksplorasi teknologi terbaru.  
-Fokus utama kami adalah otomatisasi, pengembangan web, dan kontribusi pada open source.
+We are **gpa-project**, a collective of passionate developers, thinkers, and innovators united by one purpose: pushing the boundaries of technology.  
+Our crew is led by a mysterious figure—our enigmatic leader—whose identity remains a well-guarded secret. Together, we thrive on creativity, collaboration, and a touch of intrigue.
 
-- 🔭 Saat ini kami sedang mengembangkan: [whatsapp-blast](https://github.com/gpa-project/whatsapp-blast)
-- 🌱 Kami terus belajar dan berbagi pengetahuan
-- 💬 Jangan ragu untuk bertanya tentang automation, bot, atau seputar teknologi!
-- 🌐 Terbuka untuk kolaborasi dan networking
+- 🔭 Currently working on: [whatsapp-blast](https://github.com/gpa-project/whatsapp-blast)
+- 💡 We embrace open source, automation, and disruptive ideas
+- 🌱 Always learning, always growing
+- 🧩 Open for collaboration—if you dare!
 
 ---
 
-## 🚀 Stack & Tools
+## 🚀 Tech Arsenal
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -37,7 +37,7 @@ Fokus utama kami adalah otomatisasi, pengembangan web, dan kontribusi pada open 
 
 ---
 
-## 📊 Statistik GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gpa-project&show_icons=true&theme=tokyonight" alt="gpa-project's GitHub stats">
@@ -48,12 +48,16 @@ Fokus utama kami adalah otomatisasi, pengembangan web, dan kontribusi pada open 
 
 ---
 
-## 📫 Hubungi Kami
+## 📫 Connect With Us
 
 - 📧 Email: [gpa.project@example.com](mailto:gpa.project@example.com)
-- 💼 LinkedIn: [linkedin.com/in/gpa-project](https://linkedin.com/in/gpa-project) <!-- Ganti jika ada -->
-- 🌐 Website/Portfolio: [yourwebsite.com](https://yourwebsite.com) <!-- Ganti jika ada -->
+- 💼 LinkedIn: [linkedin.com/in/gpa-project](https://linkedin.com/in/gpa-project) <!-- Replace if available -->
+- 🌐 Website/Portfolio: [yourwebsite.com](https://yourwebsite.com) <!-- Replace if available -->
 
 ---
 
-> "Tetap penasaran, terus berkarya, dan jadilah inspirasi."
+> “Innovation is best served with a hint of mystery.”
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7DF&width=435&lines=We+are+gpa-project.+Who+is+behind%3F+That+remains+a+secret..." alt="Typing SVG" />
+</p>
