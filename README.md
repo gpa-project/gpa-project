@@ -50,9 +50,9 @@ Guided by a mysterious and inspiring leader, we believe in the power of collabor
 
 ## 📫 Connect With Us
 
-- 📧 Email: [gpa.project@example.com](mailto:xxxxxxxx.com)
-- 💼 LinkedIn: [linkedin.com/in/gpa-project](https://linkedin.com/xxxxx) <!-- Replace if available -->
-- 🌐 Portfolio: [yourwebsite.com](https://xxxxxxxxxxxxxx.com) <!-- Replace if available -->
+- 📧 Email: [xxxxxx](mailto:xxxxxxxx.com)
+- 💼 LinkedIn: [xxxxxx](https://linkedin.com/xxxxx) <!-- Replace if available -->
+- 🌐 Portfolio: [xxxxx](https://xxxxxxxxxxxxxx.com) <!-- Replace if available -->
 
 ---
 
